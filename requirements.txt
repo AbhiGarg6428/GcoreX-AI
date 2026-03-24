@@ -1,2 +1,20 @@
-require
+# GcoreX AI - Required Libraries
+# Install with: pip install -r requirements.txt
+
+# HTTP requests to Ollama API
+requests
+
+# Colored terminal output
+colorama
+
+# Text-to-speech engine
 pyttsx3
+
+# Progress bars (used in various tools)
+tqdm
+
+# Numerical operations
+numpy
+
+# PDF reading support (used in read_file.py and summarize_file.py)
+PyPDF2
